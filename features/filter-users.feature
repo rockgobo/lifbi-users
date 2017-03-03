@@ -7,7 +7,7 @@ I want to filter the list of all employees by there names or familynames
         Given user is on overview page
         When I type in "Matyas"
         Then the employee with the familyname "Matyas" is shown
-    
+
     Scenario: search for a person that is not a employee
         Given user is on overview page
         When I type in "John Snow"

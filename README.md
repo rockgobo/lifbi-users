@@ -1,4 +1,4 @@
-# Angular QuickStart Source
+# User list based on Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
@@ -11,6 +11,15 @@ It exists primarily to get you started quickly with learning and prototyping in 
 
 We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
 Please keep that in mind before posting issues and PRs.
+
+Based on this Quickstart we are implementing a list of users, filter and a detailed view of a single user
+
+## Features of the app
+
+The features of the application can be found in the /features folder. The Requirements are written as user stories using the cucumber syntax.
+
+- Cucumber JS [more](https://github.com/cucumber/cucumber-js)
+- Cucumber.io [more](https://cucumber.io)
 
 ## Updating to a newer version of the Quickstart Repo
 

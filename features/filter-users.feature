@@ -1,4 +1,4 @@
-Feature: Show all employees
+Feature: Filter overview
 In order to get information about a employee at the LIfBi
 As a user
 I want to filter the list of all employees by there names or familynames
